@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a data science student at the [University of Auckland](https://unidirectory.auckland.ac.nz/profile/a-fergusson). **I love cats, coffee, and code.** 
+I'm a data science student at the [University of Auckland](https://www.auckland.ac.nz/en.html). **I love cats, coffee, and code.** 
 
 ## I also love memes!
 
