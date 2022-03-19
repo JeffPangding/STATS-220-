@@ -4,7 +4,7 @@
 
 I'm a data science student at the [University of Auckland](https://www.auckland.ac.nz/en.html). 
 **I love whact anime. I would like to show the anime that I enjoy！！！** 
-* ONE PEICE
+* [ONE PEICE![onepeice.png]]
 * DARON BALL
 * NARUTO
 * SLAM DUNK
