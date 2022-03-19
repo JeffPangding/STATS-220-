@@ -2,7 +2,8 @@
 
 ## About me
 
-I'm a data science student at the [University of Auckland](https://www.auckland.ac.nz/en.html). **I love whact anime. I would like to show the anime that I enjoy.** 
+I'm a data science student at the [University of Auckland](https://www.auckland.ac.nz/en.html). 
+**I love whact anime. I would like to show the anime that I enjoy.** 
 
 ## I also love memes!
 
